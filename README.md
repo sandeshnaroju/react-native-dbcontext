@@ -7,6 +7,6 @@ In this example, I have used watermelonDB, but you can use whatever database fra
 
 # HOW TO USE:
 
-1. Copy the db folder into your project, and Initialize your DB in the DbProvider.js file itself. And pass the value to DbContext.Provider.  
-2. In the parent component surround elements with DbProvider.
+1. Copy the db folder into your project, and Initialize your DB in the `DbProvider.js` file itself. And pass the value to `DbContext.Provider`.  
+2. In the parent component surround elements with `DbProvider`.
 3. In the Child component you can either surround elements with `DbContext.Consumer` or use `this.context` to get the reference of database. 
