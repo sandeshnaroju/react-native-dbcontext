@@ -4,6 +4,7 @@ It is an example how all child components in react native gets database referenc
 ### NOTE: ###
 In this example, I have used watermelonDB, but you can use whatever database framework you want to use. 
 
+read the complete usage [here](https://www.naroju.com/how-to-use-react-context-to-pass-database-reference-to-child-components/) 
 
 ### HOW TO USE:
 
